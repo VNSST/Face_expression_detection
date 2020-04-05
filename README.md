@@ -1,7 +1,9 @@
 # Face_expression_detection
 To make this model work better, for all these expressions take the photo in good lighting and try to 
 capture the photo of face alone (Keep face close to camera for better results).
-And specifically for ;
+-----------------------------------------------------------------------------------------------------
+And specifically for these emotions,
+-----------------------------------------------------------------------------------------------------
 ### Happy : 
              1. Keep your eyes open and big.
              2. Maintain a wide smile with teeth.
